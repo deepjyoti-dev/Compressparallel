@@ -75,12 +75,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-## Screenshots
-
-*(Add GUI screenshots here to showcase the interface and progress bar)*
-
----
-
 ## Acknowledgments
 
 - Python `tkinter` for GUI.
